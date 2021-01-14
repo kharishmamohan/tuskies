@@ -1,1 +1,2 @@
 this a test knowledge on GIT
+trying to add new
